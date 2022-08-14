@@ -38,7 +38,7 @@ nltk.download('wordnet')
 ```
 
 
-* Through Terminal
+* Running the Chatbot Through Terminal
 ```
 python chatbot.py
 ```
